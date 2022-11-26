@@ -4,9 +4,10 @@ Data science jobs are some of the fastest-growing, most in-demand in technology.
 
 Data Scientist salaries have also risen with demand; Data Scientists can typically expect to make six figures. Demand also translates into an ability to relocate far more easily—from city to city, and even internationally.
 
-Problem Statement
+# Problem Statement
 Explore every features in the dataset to come up with actionable observations and overall recommendations which will benefit anyone/company going into the field of Data Science and Data Analysis.
-Work Year Analysis(with Salary, Remote Ratio)
-Experience Level Analysis (with Employment Type, Top 3 Job Title, Company Size)
-Company Location Analysis (with Experience Level)
-Salary Analysis (with Work Year, Experience Level, Company Size, Job Title, Remote Ratio)image-3.png
+
+- Work Year Analysis(with Salary, Remote Ratio)
+- Experience Level Analysis (with Employment Type, Top 3 Job Title, Company Size)
+- Company Location Analysis (with Experience Level)
+- Salary Analysis (with Work Year, Experience Level, Company Size, Job Title, Remote Ratio)
